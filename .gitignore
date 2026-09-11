@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+eval/golden_set_unlabeled.csv
+
+data/twcs.csv

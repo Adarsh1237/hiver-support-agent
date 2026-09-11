@@ -1,0 +1,201 @@
+tweet_id,customer_text,gold_intent,gold_escalate,gold_escalate_reason,sampled_via,notes,_suggested_intent_do_not_trust
+1219921,@AmazonHelp Telefon-Support angeben könnte! (2),general_inquiry,False,,stratified,,general_inquiry
+476867,@AmazonHelp I haven’t received any emails about cancelling the order and no messages in my account eaither! https://t.co/HtrOr0HUAQ,general_inquiry,False,,stratified,,general_inquiry
+1517764,@AmazonHelp Bin grad in der Warteschleife bei der Kundenbetreuung...,general_inquiry,False,,stratified,,general_inquiry
+180388,@AmazonHelp Any update @AmazonHelp ? Plenty more products with the same misleading message... https://t.co/wDmUW0VOKY,general_inquiry,False,,stratified,,general_inquiry
+257816,@AmazonHelp just received an email saying missed delivery....I’m at home and the doorbell hasn’t gone 🤔,delivery_delay,True,delivery issue requires review,stratified,,general_inquiry
+2457184,@AmazonHelp @115850 is not intrested in any business. All my pasy orders are being returned for no reason? They just don’t want to co-operate. They dodn’t have any sort of responsiblity &amp; proper answers. Worst system i could have ever imagined.No use of prime membership #Noprime #NoAmazon,general_inquiry,True,requires human review,stratified,,general_inquiry
+318788,@AmazonHelp Why can't i order my subscribe-and-save items before schedule? Have changed payment method as suggested. Still see this. https://t.co/lfFH64W0JA,general_inquiry,False,,stratified,,general_inquiry
+1388405,"@AmazonHelp Not the point though is it? If I hadn't noticed the transaction, I'd have been paying for something I didn't ask for or even know I had",general_inquiry,False,,stratified,,general_inquiry
+2692691,@AmazonHelp Bonsoir pouvez vous regarder vos DM s'il vous plaît ?,general_inquiry,False,,stratified,,general_inquiry
+219561,@AmazonHelp @115851 I have not received any email. Yesterday also I was asked to revert on email provided I didn't receive any email yesterday also.,general_inquiry,False,,stratified,,general_inquiry
+2312654,@AmazonHelp AMZL US I think?,general_inquiry,False,,stratified,,general_inquiry
+747702,@AmazonHelp Oui il est sorti hier donc vois l’avez toujours en stock et oui c’est vendu par vos services.,general_inquiry,False,,stratified,,general_inquiry
+142867,@AmazonHelp Thanks @AmazonHelp,general_inquiry,False,,stratified,,general_inquiry
+294791,@AmazonHelp not getting any solution till now,general_inquiry,True,requires human review,stratified,,general_inquiry
+1721735,@AmazonHelp I mean can i add money to my gift card balance through my debit card instead of going somewhere and buying a gift card,general_inquiry,False,,stratified,,general_inquiry
+1636630,"@AmazonHelp I bought the 150 prisma pencil set, when I’ve looked through them quite a few are split. Is there a way to replace them.",general_inquiry,False,,stratified,,general_inquiry
+248666,@AmazonHelp I am afraid I will have to cancel 2/2,general_inquiry,False,,stratified,,general_inquiry
+845739,@AmazonHelp Y can't you access my details while you can access my messages here?,general_inquiry,False,,stratified,,general_inquiry
+312426,"@AmazonHelp Carrier: AMZL US, Tracking #: TBA476717098000 Not sure if that's the information you need, but that's what is in tracking for the item.",delivery_delay,False,,stratified,,general_inquiry
+2529540,Prüft ihr eigentlich Warehouse Deals bevor diese an andere Kunden verschickt werden @AmazonHelp?! Bestelle 4TB HDD und bekomme 1TB 😡,general_inquiry,False,,stratified,,general_inquiry
+1268309,And now this. @AmazonHelp How do 3 instock items become 1 shipped and 2 more “maybe” by December?? 2nd item that add delay after checkout https://t.co/3TjQ46ZnPd,delivery_delay,False,,stratified,,delivery_delay
+205002,@AmazonHelp I have all they it will be here on 6th...which is too late,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+2899500,"@AmazonHelp I already have. Your support staff don’t seem to differentiate between a late delivery and false information on the tracking, even though this is the second time this has happened in 4 days. In the end i gave up as they just kept going on about waiting 24 hours.",delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+1826016,@AmazonHelp But what is the benefit of my prime membership then? When you make me wait four days and 12 hours later I see a shorter delivery window?,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+394458,"@AmazonHelp UK delivery by @122232 is crap. I have Prime, yet they never deliver next day due to delays. Not what I pay monthly for.",delivery_delay,False,,stratified,,delivery_delay
+570045,@AmazonHelp Last one says out for deliver from Smyrna at 11:00am today. So really no reason why it should be delayed.,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+2278640,"@AmazonHelp Thanks for reply - I did both, still doesn't work, other episodes are fine. I'm running Android 8.0.0 on Nexus 6P. I'll try PC later, cheers",product_defect,False,,stratified,,delivery_delay
+2269187,@AmazonHelp Dear Please Deliver My Product As Soon As Possible... It's Allreay 2 Days Late Than Delivery Date,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+2055034,@AmazonHelp thanks for ur response my dog hoodie arrived approximately 10 minutes late (delivery estimate 8pm),delivery_delay,False,,stratified,,delivery_delay
+218034,@AmazonHelp A carrier delay has occurred. Amazon Logistics.,delivery_delay,False,,stratified,,delivery_delay
+1955280,.@AmazonHelp Echo in 1 room and Dot connected via receiver to wired speakers. i'm getting delay doing multi-room audio. Due to cable length?,delivery_delay,False,,stratified,,delivery_delay
+2073903,@AmazonHelp when you get laughed at down the phone by customer services because your xbox is one day late when you were promised I would get it when it was released.,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+1157941,"@AmazonHelp No. I had to log in &amp; check the status. Listed other items as late on the splash screen too, but listed them as delivered when I clicked. ?",delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+176506,"@AmazonHelp Originally, when I got the device and then maybe did some additional training a few months later. I figured it must be time to do that again. So I will and promise to report back!",delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+566693,@AmazonHelp My package was due yesterday and now it’s two days late 🙄🙄,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+162130,"@AmazonHelp The orders each said I had selected Prime One Day Delivery, but the arrival dates were up to 5 days later",delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+1765195,@115830 @AmazonHelp You need to sort out your Amazon Prime service in UK as 90% of my orders in last two weeks have been delayed. #Useless,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+2968347,@AmazonHelp Nov 29 (today) and I just got an email regarding a delay in shipping.,delivery_delay,False,,stratified,,delivery_delay
+423437,@AmazonHelp I have already the mails that I have received. But still one product is missing related to the same Order No,delivery_delay,True,delivery issue requires review,stratified,,delivery_delay
+783022,@AmazonHelp @115850 @117795 @115821 delaying of package not only intended.u r providing wrong information in app too.(1/2) https://t.co/LFNa4afLSb,delivery_delay,False,,stratified,,delivery_delay
+1042287,@AmazonHelp I emailed them but the reply wasn’t legible. Broken English that made no sense and some was restricted. Frustrating.,product_defect,True,damaged or defective product,stratified,,product_defect
+289068,@AmazonHelp Nope my friend ordered using prime 2 days ago and it’s still not arrived. Great when she’s trying to fix my broken phone,product_defect,True,damaged or defective product,stratified,,product_defect
+1433617,@AmazonHelp Yes I have. I don't want to return or replace the vacuum cleaner; just want a new charger to replace the broken one.,product_defect,True,damaged or defective product,stratified,,product_defect
+222698,"@AmazonHelp Not an issue with ISP, it works on laptop. Issue is specific to 3 mobile devices i have. Reinstall, deleteion of cookies didn't work either",product_defect,True,product issue requires review,stratified,,product_defect
+1543602,@AmazonHelp I received this in mail... broken glass w/ liquid contents spilled n soaked thru pkg! Lucky not cut! N ur customer service wasn’t helpful. https://t.co/kb3b5A3hGB,product_defect,True,damaged or defective product,stratified,,product_defect
+665158,@AmazonHelp but is there a way to return just the broken one? go figure it was the sixth one I pulled out after the other five already got hung,product_defect,True,damaged or defective product,stratified,,product_defect
+1478008,"@AmazonHelp we just set our TV up from our wedding registry, but it's broken &amp; it won't let us return it for a replacement. Help pls! https://t.co/dbOEw8MYPS",product_defect,True,damaged or defective product,stratified,,product_defect
+2528842,@AmazonHelp Can u please recheck as I used the EMAIL US feature u claim u have and sent a very detailed description.. today morning only... hope that feature works and is not a broken one again... and u r not from Mars,product_defect,True,damaged or defective product,stratified,,product_defect
+2124726,"@AmazonHelp Yes, it was received on Monday and hasn't been inspected yet but the item I need to rebuy because I shipped a different item that was broken and missing parts only has 1 left and will have none for the foreseeable future. I just want to rebuy it man I'm so tired of all this.",product_defect,True,damaged or defective product,stratified,,product_defect
+362959,@AmazonHelp I got a code to so that I could replace my password but that didn't work,product_defect,True,product issue requires review,stratified,,product_defect
+180926,@AmazonHelp @115850 cheating pre ordered #FIFA18 customers by giving preference to acquiring new customers. #BrokenPromises,product_defect,True,damaged or defective product,stratified,,product_defect
+1558771,"@AmazonHelp your Gluon locker in Woking, UK is broken. Sort it out.",product_defect,True,damaged or defective product,stratified,,product_defect
+1733111,"@AmazonHelp Hi - They worked fine at first, and then the remote has broken (i think) as it keeps pausing my music, skipping songs etc. 1/2",product_defect,True,damaged or defective product,stratified,,product_defect
+384828,@AmazonHelp Ordered an iPhone7 from GreenMobiles and got an opened box/seal broken iPhone box !! And the phone was missing.. Filed an issue https://t.co/huf8vSoPTJ,product_defect,True,damaged or defective product,stratified,,product_defect
+876291,@AmazonHelp why is it that I've ordered 2 different pairs of headphones and both have come broken?,product_defect,True,damaged or defective product,stratified,,product_defect
+179060,@AmazonHelp 16th of September with Amazon. Received the code Monday. Input it to PSN last night. Was told it redeemed. Are the codes broken?,product_defect,True,damaged or defective product,stratified,,product_defect
+1453762,@115850 @AmazonHelp I HAVE ORDERED DSLR CAMERA WORTH RS. 21000 RS.AND THEY SENT ME BROKEN SPEAKERS WORTH 500 RS INSIDE THE DELIVERY BOX..,product_defect,True,damaged or defective product,stratified,,product_defect
+2273219,"@AmazonHelp Been delivered a bar stool, but it doesn't fit properly. I assume it's broken. The company does not have a phone number but is fulfilled by Amazon.",product_defect,True,damaged or defective product,stratified,,product_defect
+133666,"@AmazonHelp ORDER # 404-7538331-2329962 i had ordered a 2Tb hard disk and this is what I have got. I want immediate resolution of this. Highly frustrated, trust been broken by amazon https://t.co/Em7f97mSUI",product_defect,True,damaged or defective product,stratified,,product_defect
+1521759,@AmazonHelp two of the six jars my friend ordered for me came like this. Anything you can do to replace these broken jars? https://t.co/DGQn0uIVCi,product_defect,True,damaged or defective product,stratified,,product_defect
+163623,"@AmazonHelp I've messaged Amazon twice, about a seller who sold me faulty goods who is begging me to leave 5 stars and good feedback in return for a refund. I've had nothing from you apart from a charge for Amazon prime that I am actually unsubscribed from. Well done! Great work",refund_request,True,refund issue requires review,stratified,,refund_request
+2111176,@AmazonHelp Question. When it comes to returning a product. How can I return it and do I have to pay anything? And how do I get my refund?,refund_request,False,,stratified,,refund_request
+440071,@AmazonHelp How many times do I have to write the same thing! Do you understand It's two months already? I want my money back asap.,refund_request,True,refund issue requires review,stratified,,refund_request
+1376425,@AmazonHelp one one of the bowls I ordered came chipped. How do I get a refund? https://t.co/avIzxVoM0d,refund_request,False,,stratified,,refund_request
+2318663,@AmazonHelp @115851 @115850 Done. But it's better if you cancel my order and process for refund.I shop on Amazon for convenience &amp; this isn't very convenient. Moreover your delivery executive forged my signature to show the package as one day delivery and you've no resolution mechanism.,refund_request,True,refund issue requires review,stratified,,refund_request
+1493692,"@AmazonHelp Basically, wanted to sweat out a quick session before collage but I couldn't ,I'd appreciate a puka pie and a refund for my troubles",refund_request,True,refund issue requires review,stratified,,refund_request
+1123313,"@AmazonHelp If I cancel the replacement, can I get a refund instead?",refund_request,True,refund issue requires review,stratified,,refund_request
+2714666,"@AmazonHelp My order was picked up, then the refund was put on halt as youll said, you have empty box, and now after 20 days, I am been told, I did not send correct product. This is clear fraud, and I need someone to look into this.",refund_request,True,refund issue requires review,stratified,,refund_request
+737987,"@AmazonHelp Pickup of the product is planned after several failed attempt and on 8th Oct it was done, instead of refund now again same product is resent",refund_request,True,refund issue requires review,stratified,,refund_request
+1256965,@AmazonHelp What is the refund status of Order# 406-8719185-6477969? It's been 5 days and I do not have any updates.,refund_request,True,refund issue requires review,stratified,,refund_request
+1738930,@115821 @AmazonHelp Mr Amazon fucking service i have purchase a blood machine till now i did not get my refund fuck,refund_request,True,refund issue requires review,stratified,,refund_request
+1208754,@115850 Jokers I want to know why refund initiated @35358 @AmazonHelp @14045,refund_request,True,refund issue requires review,stratified,,refund_request
+898755,@AmazonHelp I already contacted for refund. But they generated replacement &amp; told me that refund request generated. 408-4725568-6535559,refund_request,True,refund issue requires review,stratified,,refund_request
+718082,"@AmazonHelp They said to follow up with you. At this point, I believe the package is lost and will be asking for a refund. What's the process for that?",refund_request,True,refund issue requires review,stratified,,refund_request
+545725,@AmazonHelp where do I send this now it’s ready for return and refund? No instructions in the email. https://t.co/01svugICBt,refund_request,False,,stratified,,refund_request
+2772414,@AmazonHelp Unfortunately none of those worked! The other movies we’ve purchased all work. Would it be crazy to ask to be refunded for the purchase?,refund_request,True,refund issue requires review,stratified,,refund_request
+394866,@AmazonHelp I placed a order on 19 November. And paid it by nat banking ...but it cancelled automatically without my permission and i didn't get any refund. I'm complained it on your customer care no. But they says you don't place any order in last 30 days ...hot is it possible.,refund_request,True,refund issue requires review,stratified,,refund_request
+2388938,@AmazonHelp I returned to items but have only received a refund for 1 of them. Can you help?,refund_request,False,,stratified,,refund_request
+2722181,All I want is a full refund in my account for something that I am returning (Unopened package) @AmazonHelp I've done it before &amp; the rep is just going on about giving me hard time on a Full refund. I shouldn't have to sit here for this long.,refund_request,True,refund issue requires review,stratified,,refund_request
+527767,"@AmazonHelp Yes, im being told i have to have a refund and re order, meaning the earliest i can get my orders GUARANTEED on the 30th of November is the 4th of December.... the other order is only one day past the GUARANTEED delivery date... what guarantee is that exactly?",refund_request,True,refund issue requires review,stratified,,refund_request
+179296,"@AmazonHelp How can I do that when my account is on hold and I am unable to log in, and this is the first thing this page requires? When I call customer services all I am getting is ""Its not my fault, I cant do anything, you just have to wait for the account team"" Hardly customer-focussed",account_login,True,account access issue,stratified,,account_login
+1708594,"@AmazonHelp Hello, I've been trying to log into my amazon account all afternoon and I've reset my password at the very less 10 times. Help?",account_login,True,account access issue,stratified,,account_login
+728771,"@AmazonHelp Thankyou, I can’t seem to log into my account. Not receiving verification code email",account_login,True,account access issue,stratified,,account_login
+1391822,@AmazonHelp What part of I CANT LOG IN you dont understand ?,account_login,True,account access issue,stratified,,account_login
+1276243,@AmazonHelp But i get an email to say it's successfully updated then try to log in and it says it is incorrect. How do I get my access back?,account_login,True,account access issue,stratified,,account_login
+2898922,@AmazonHelp Yea i got that massage and when i tried to log in again i couldn't so now i don't have anymore information to weather my order will actually be delivered or not,delivery_delay,False,,stratified,,account_login
+802426,@AmazonHelp Am not getting answer entire day from customer care and shared me login link how funny reply Amazon. Very very bad experience with Amazon,account_login,True,account access issue,stratified,,account_login
+2480157,Ok so my amazon US account has been comprimised but I have to log in to contact them?! @AmazonHelp,account_login,True,account access issue,stratified,,account_login
+1085135,"@AmazonHelp I cannot. When I try to login, this is what it is displayed. It' been frustrating https://t.co/7ntS6D4Qzw",account_login,True,account access issue,stratified,,account_login
+668488,@AmazonHelp Still unable to login using amazon captcha. :(,account_login,True,account access issue,stratified,,account_login
+1953284,@115850 @AmazonHelp fake mail asking for credit card details. Need Otp authentication for login. https://t.co/bOrGr5TUZm,account_login,True,account access issue,stratified,,account_login
+176402,@AmazonHelp After I changed my password why I still can’t login ? https://t.co/Ky6x8F1RFV,account_login,True,account access issue,stratified,,account_login
+243164,@AmazonHelp The thing is... I can’t login to my account anymore,account_login,True,account access issue,stratified,,account_login
+1353489,Hey @AmazonHelp my account has been locked for a few days with no reason and now I can't even login to contact support nor place an order.,account_login,True,account access issue,stratified,,account_login
+966291,@AmazonHelp It seems to be okay at the moment. If crashes again I will log in and reach out. Thanks for responsiveness. Appreciate it.,account_login,False,,stratified,,account_login
+323756,@AmazonHelp Did you add a captcha to your login screen in the last 24 hours? Didn’t see one yesterday but there was one this morning.,account_login,True,account access issue,stratified,,account_login
+2166114,@AmazonHelp So their response is to give you a link that you need to log in to use. Brilliant. Then they don’t give an Australian number to ring. @115821 Dreadful customer service,account_login,True,account access issue,stratified,,account_login
+311324,@AmazonHelp Did u guys get hack or was there mass hack account i log in today an i had diff username an all my info was gone,account_login,True,account access issue,stratified,,account_login
+1255677,@AmazonHelp Ok will login in sometime and will msg you here,account_login,True,account access issue,stratified,,account_login
+971752,"@AmazonHelp And this, every time I login, is seriously pi$$ing me off. https://t.co/kZj72EyroH",account_login,True,account access issue,stratified,,account_login
+317899,@AmazonHelp I brought something on amazon on the 6th September and I have been charged twice since and been sent the same product twice,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2873324,@AmazonHelp I was purchasing at https://t.co/ijKPsDn5RO. Your CS team said it was an authorization charge for a specific order number. Guess what? I had to use my work time to contact your CS team because you overcharged my CC for $133.01.,billing_dispute,True,billing dispute,stratified,,billing_dispute
+408786,@AmazonHelp I have a charge from Amazon I don't recognize??,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2532817,@AmazonHelp Again repeated... You overcharged me ...320 instead of 275... https://t.co/PAs9lqgZfe,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2633026,@AmazonHelp Tirns out ive beencharged twice for both. Im not trusting the seller and these are the people your link takes me to. Im looking to speak to someone at Amazon itself and not the seller please?,billing_dispute,True,billing dispute,stratified,,billing_dispute
+1423519,"Hi @115821 @AmazonHelp I’ve been charged twice for a purchase, how can I get this sorted? Thanks 🙏",billing_dispute,False,,stratified,,billing_dispute
+1512071,"@AmazonHelp Hi, I set up an Amazon Seller Account that was never activated. Despite this I have been charged twice. Please contact me.",billing_dispute,True,billing dispute,stratified,,billing_dispute
+1550255,@AmazonHelp Even charged TWICE in August! https://t.co/SRR42CpSwv,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2283509,@AmazonHelp Hi! I've just realised that I've been charged twice for an item that I pre-ordered and hasn't even been dispatched yet.,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2151963,@AmazonHelp @115850 no one is original all r third party If have purchase 33000 mob should I used duplicate charge I think see first one plus charger adapter and then send me a link. In it provided there is no adapter by one plus,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2859766,"@AmazonHelp @779461 I've just noticed that just in time, haha. If you can get in contact with me tho that would be great because I really can't afford to be charged twice for this order :(",billing_dispute,True,billing dispute,stratified,,billing_dispute
+475126,@AmazonHelp Yes but i have now recieved 2 dispatch emails for 2 items that were cancelled as i weny a re ordered them thinking they had cancelled it all iff now.am being charged twice and no one is helping ne,billing_dispute,True,billing dispute,stratified,,billing_dispute
+1227046,@AmazonHelp Thanks for your reply. The order has been shipped out and yes it said I was charged twice.,billing_dispute,False,,stratified,,billing_dispute
+1108146,"@AmazonHelp Yes a ""Guaranteed Delivery"" date of yesterday. It's happened a number of times this year, including an order that was lost in shipping &amp; I was then charged twice when it was re-shipped. I can understand errors happen, but now just unreliable.",billing_dispute,True,billing dispute,stratified,,billing_dispute
+2841685,@AmazonHelp they keep telling me to give the bank an authorisation code that the bank tell me has already been cleared and that I am attempted to be charged twice for each purchase. chat support was not helpful in the least telling me its my banks issue and to give them a code,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2793136,@AmazonHelp @115821 I don't recognize Amazon Digital Svcs charges that appear on my credit card bill. I can find no charges under the orders part of my account. How do I get to the bottom of this?,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2891818,@AmazonHelp I cancelled an order the other day and looking at my bank account this morning i noticed i was charged twice for the cancelled item,billing_dispute,True,billing dispute,stratified,,billing_dispute
+234828,@AmazonHelp I tried emailing and on the phone it’s on 1 account they don’t know why I’ve been charged twice but now I’m just without prime😡😡😢😢,billing_dispute,True,billing dispute,stratified,,billing_dispute
+1732144,@AmazonHelp I received this today. It was sent in addition however I have been charged twice. https://t.co/j8a7c0MwkC,billing_dispute,True,billing dispute,stratified,,billing_dispute
+2531371,@AmazonHelp I emailed but haven’t heard anything. I’ve been charged twice for a kids kindle fire! Please advise,billing_dispute,True,billing dispute,stratified,,billing_dispute
+1033066,@AmazonHelp https://t.co/Eyt5ie6Chy,general_inquiry,False,,random,,general_inquiry
+2758113,Hey @AmazonHelp I received an SMS saying my order has been cancelled. But the website still shows Arriving on Monday. Pls help. Because I need to order somewhere again. Order # 402-0305262-7113947,general_inquiry,False,,random,,general_inquiry
+2424627,@AmazonHelp amazon fire tv,general_inquiry,False,,random,,general_inquiry
+2889295,"@AmazonHelp Yesterday, I paid $3.99 for that.",general_inquiry,False,,random,,general_inquiry
+1590023,@AmazonHelp We have had serious issues with the deliveries using Prime shipping lately. Who/where do we contact someone for assistance? Thx,delivery_delay,True,delivery issue requires review,random,,delivery_delay
+936121,"@AmazonHelp Ah, okay. Thanks for letting me know.",general_inquiry,False,,random,,general_inquiry
+1341641,@AmazonHelp what will take for you guys to deliver products on time for Prime members.,delivery_delay,False,,random,,general_inquiry
+2845469,@AmazonHelp Could I please have a status update? (Tara),general_inquiry,False,,random,,general_inquiry
+1198294,will i get my money back from the order i just canceled @AmazonHelp https://t.co/0ky2ZUkreF,refund_request,True,refund issue requires review,random,,refund_request
+89171,@AmazonHelp Ainda não sei! Já inventaram alguma forma de elr tudo de uma vez só?,general_inquiry,False,,random,,general_inquiry
+1669888,@AmazonHelp Merci,general_inquiry,False,,random,,general_inquiry
+1224587,"@AmazonHelp Isn't there a way to sort it out online? There is no option I can see for ""item missing from parcel"" only ""return/replace"" but nothing came!",general_inquiry,False,,random,,general_inquiry
+486748,"@AmazonHelp So I applied for your rewards card. I was sent the email stating that I got approved, it's on my account, but you guys asked me to confirm the number. Did that with my CapOne card too.",general_inquiry,False,,random,,general_inquiry
+2573792,@115821 @AmazonHelp can you help?,general_inquiry,False,,random,,general_inquiry
+352350,"@AmazonHelp @115850 got refund after 3,4 days. Poor policies from Amazon. Improve your refund policies.",refund_request,True,refund issue requires review,random,,refund_request
+1887327,"@AmazonHelp Ok, thank you. :)",general_inquiry,False,,random,,general_inquiry
+204949,@AmazonHelp A supervisor named Kenny A. Called me a lier and refused to help. I paid 4 2 day shipping but didn't get order #bait&amp;switch!!!,general_inquiry,True,requires human review,random,,general_inquiry
+676143,"@AmazonHelp I do and have had items left there previous, so why was it ignored by @122232 yourselves or the driver?",general_inquiry,False,,random,,general_inquiry
+950252,"@AmazonHelp Hi there, is there anyway of still getting my parcel today? Ive spoken to amazon and they delayed it till Monday.",delivery_delay,True,delivery issue requires review,random,,delivery_delay
+386451,"@AmazonHelp @AmazonHelp @115850 Already done that, was told that you guys are sorry and the amount will be refunded. Wonder where I heard that before",refund_request,True,refund issue requires review,random,,refund_request
+792689,@AmazonHelp I don't think u had the proper delivery team to deliver the product actually.. please look on it first,delivery_delay,False,,random,,general_inquiry
+1387096,@AmazonHelp I never had a single issue before I took Prime. And I order quite a bit each month.,general_inquiry,False,,random,,general_inquiry
+1366088,@AmazonHelp Ciao. Segnalato al servizio clienti sabato pomeriggio e casualmente sabato sera i tre pacchi che aspettavo sono stati danneggiati e non arriveranno più. Vostro corriere +++,general_inquiry,False,,random,,general_inquiry
+1919816,@AmazonHelp https://t.co/IfrHHXZmZ0 https://t.co/UpX8ljBBVj,general_inquiry,False,,random,,general_inquiry
+266036,"@AmazonHelp 3/3 order were cancelled and reason given was address undeliverable, but same address is deliverable by other e-commerce giants.",delivery_delay,False,,random,,general_inquiry
+481627,@AmazonHelp Bonjour j'ai un problème concernant la livraison de ma commande. https://t.co/AHKFHdjQ4G,general_inquiry,False,,random,,general_inquiry
+1605142,@AmazonHelp setting up a new echo dot and it won't accept my Canadian address and postal code for location.,product_defect,True,product issue requires review,random,,general_inquiry
+1399882,@AmazonHelp What time do you deliver until? Order something via prime. Says it's being delivered today. Nothing yet.,delivery_delay,False,,random,,general_inquiry
+2303566,@AmazonHelp D'accord. Merci beaucoup 😊,general_inquiry,False,,random,,general_inquiry
+914197,"@AmazonHelp Ils vont tenter de contacter @132743 , mais si rien de possible Auj’ (probablement le cas) rapatriement du colis+remboursement",general_inquiry,False,,random,,general_inquiry
+415739,@AmazonHelp Opened an email dialogue with him just now. I thank you for getting me to someone who can help. Sorry for being a grump about this.,general_inquiry,False,,random,,general_inquiry
+1519891,@AmazonHelp Por un vendedor externo.,general_inquiry,False,,random,,general_inquiry
+2306127,@AmazonHelp ご丁寧に恐縮です^ ^,general_inquiry,False,,random,,general_inquiry
+916560,@AmazonHelp I have posted the relevant concern on the URL you shared. Kindly revert,general_inquiry,False,,random,,general_inquiry
+2981874,@AmazonHelp わざわざありがとうございます😊,general_inquiry,False,,random,,general_inquiry
+1456384,"@AmazonHelp I need confirmation of delivery, else i will order.from.@118702 or @4030 which actually do what they promise. @115821",delivery_delay,False,,random,,general_inquiry
+1240063,"@AmazonHelp almost 1 hour on phone with John, who cannot problem solve. His inability to comprehend is beyond understanding #lostkindlehelp",general_inquiry,False,,random,,general_inquiry
+2895898,"@AmazonHelp La invito a controllare personalmente se può e a spiegare questa immotivata faccenda ai superiori. Io sono in attesa di spiegazioni !Lo segnali lei.io non compro recensioni e tutte quelle che ho sono di chi ha apprezzato il libro, controllate quelle che sparano a 0 invece S.D",delivery_delay,True,delivery issue requires review,random,,delivery_delay
+1320520,"Hahahaha @AmazonHelp just sent me this! All because I made the mistake of going shopping rather than using @117795 Thanks, Amazon! https://t.co/GWZlHweHAo",general_inquiry,False,,random,,general_inquiry
+734084,"@AmazonHelp Shame on you Amazon and your service team. Worst experience ever. Three months now, no refund!",refund_request,True,refund issue requires review,random,,refund_request
+440378,@AmazonHelp Yes checked but no reply as such,general_inquiry,False,,random,,general_inquiry
+274462,@AmazonHelp @115850 My 3rd order UNDELIVERED. No visit nor call from AmazonAgent. But email says returned to fullfillment centre.,delivery_delay,True,delivery issue requires review,random,,general_inquiry
+517566,@AmazonHelp My main issue is that my product got lost!,general_inquiry,True,requires human review,random,,general_inquiry
+440960,@AmazonHelp You are not tolerable now.. I did not get any mail. Arrange the pick up. Or I will have to write @121927 pahredar,general_inquiry,False,,random,,general_inquiry
+737158,@AmazonHelp I'm not able to access this link,general_inquiry,False,,random,,general_inquiry
+2807282,@AmazonHelp I did. she has been in that last location for over 40 minutes. and now she’s even further away! why the hell do you start charging a premium on delivery when the delivery aspect has become exceedingly less reliable?! https://t.co/ekVEvlZvy4,delivery_delay,False,,random,,general_inquiry
+742355,"@AmazonHelp Bonjour, oui, bien sûr la voici : https://t.co/pWa1YP5mT5",general_inquiry,False,,random,,general_inquiry
+52227,@AmazonHelp How can I reach out to you guys via phone or chat?,general_inquiry,False,,random,,general_inquiry
+1773981,@AmazonHelp where is my package? Order # 113-7991787-1310647,delivery_delay,False,,random,,general_inquiry
+2474826,"@AmazonHelp certe mais si en cas de ""litige"" vous ne faite rien , je me répète vous ne servez à rien @120533",general_inquiry,False,,random,,general_inquiry
+1334287,@AmazonHelp ????????????,general_inquiry,False,,adversarial,,general_inquiry
+314279,@AmazonHelp ???????,general_inquiry,False,,adversarial,,general_inquiry
+1336220,@AmazonHelp merci!!!!!!!,general_inquiry,False,,adversarial,,general_inquiry
+2780514,@AmazonHelp merci!!!!!!!,general_inquiry,False,,adversarial,,general_inquiry
+480307,@AmazonHelp Hello?????,general_inquiry,False,,adversarial,,general_inquiry
+969874,@AmazonHelp ?????,general_inquiry,False,,adversarial,,general_inquiry
+2166091,@AmazonHelp oui !!!!!,general_inquiry,False,,adversarial,,general_inquiry
+244697,@AmazonHelp update????,general_inquiry,False,,adversarial,,general_inquiry
+293316,@AmazonHelp ????,general_inquiry,False,,adversarial,,general_inquiry
+490502,@AmazonHelp ????,general_inquiry,False,,adversarial,,general_inquiry
+835507,@AmazonHelp Gta V !!!! 👍,general_inquiry,False,,adversarial,,general_inquiry
+897546,@AmazonHelp ????,general_inquiry,False,,adversarial,,general_inquiry
+969869,@AmazonHelp ????,general_inquiry,False,,adversarial,,general_inquiry
+1185799,@AmazonHelp Mañana!!!!,general_inquiry,False,,adversarial,,general_inquiry
+1669863,@AmazonHelp gracias!!!!,general_inquiry,False,,adversarial,,general_inquiry
+2671363,@115830 @AmazonHelp ????,general_inquiry,False,,adversarial,,general_inquiry
+2777494,@AmazonHelp ????,general_inquiry,False,,adversarial,,general_inquiry
+155209,@AmazonHelp Gracias!!!,general_inquiry,False,,adversarial,,general_inquiry
+245903,@AmazonHelp ???,general_inquiry,False,,adversarial,,general_inquiry
+793361,@AmazonHelp THANK U !!!,general_inquiry,False,,adversarial,,general_inquiry
+851656,@AmazonHelp ???,general_inquiry,False,,adversarial,,general_inquiry
+868645,@AmazonHelp Hello???,general_inquiry,False,,adversarial,,general_inquiry
+1172616,@AmazonHelp Gracias!!!,general_inquiry,False,,adversarial,,general_inquiry
+1326933,@AmazonHelp Obrigada!!!,general_inquiry,False,,adversarial,,general_inquiry
+1754225,@AmazonHelp ???,general_inquiry,False,,adversarial,,general_inquiry
+1768543,@AmazonHelp None!!!,general_inquiry,False,,adversarial,,general_inquiry
+1955343,@AmazonHelp ???,general_inquiry,False,,adversarial,,general_inquiry
+2184640,@AmazonHelp ???,general_inquiry,False,,adversarial,,general_inquiry
+2288084,@AmazonHelp reply !!!,general_inquiry,False,,adversarial,,general_inquiry
+2516955,@AmazonHelp ???,general_inquiry,False,,adversarial,,general_inquiry
